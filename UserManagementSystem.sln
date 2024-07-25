@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementSystem.Api", "UserManagementSystem.Api\UserManagementSystem.Api.csproj", "{C9FA36DA-9721-4DCA-8B61-2DBF204BD479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementSystem.Database", "UserManagementSystem.Database\UserManagementSystem.Database.csproj", "{272FE937-71F8-4606-9172-63348B10BE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9FA36DA-9721-4DCA-8B61-2DBF204BD479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FA36DA-9721-4DCA-8B61-2DBF204BD479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FA36DA-9721-4DCA-8B61-2DBF204BD479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FA36DA-9721-4DCA-8B61-2DBF204BD479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272FE937-71F8-4606-9172-63348B10BE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272FE937-71F8-4606-9172-63348B10BE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272FE937-71F8-4606-9172-63348B10BE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272FE937-71F8-4606-9172-63348B10BE52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

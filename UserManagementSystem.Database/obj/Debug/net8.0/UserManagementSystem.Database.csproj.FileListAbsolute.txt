@@ -1,0 +1,12 @@
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\bin\Debug\net8.0\UserManagementSystem.Database.deps.json
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\bin\Debug\net8.0\UserManagementSystem.Database.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\bin\Debug\net8.0\UserManagementSystem.Database.pdb
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.csproj.AssemblyReference.cache
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.AssemblyInfoInputs.cache
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.AssemblyInfo.cs
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.csproj.CoreCompileInputs.cache
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\refint\UserManagementSystem.Database.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.pdb
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\ref\UserManagementSystem.Database.dll
