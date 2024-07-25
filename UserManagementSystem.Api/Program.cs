@@ -1,5 +1,9 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using UserManagementSystem.Api.Services;
+using UserManagementSystem.Api.Services.Ifs;
 using UserManagementSystem.Database;
+using UserManagementSystem.Database.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +20,18 @@ builder.Services.AddDbContext<UmsDbContext>(optionsBuilder =>
         contextOptionsBuilder.MigrationsAssembly(typeof(UmsDbContext).Assembly.FullName);
     });
 });
+
+builder.Services.AddIdentity<User, IdentityRole>(options =>
+    {
+        options.User.RequireUniqueEmail = true;
+        options.Password.RequireDigit = false;
+        options.Password.RequireLowercase = false;
+        options.Password.RequireUppercase = false;
+        options.Password.RequireNonAlphanumeric = false;
+    } ).AddDefaultTokenProviders()
+.AddEntityFrameworkStores<UmsDbContext>();
+
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 var app = builder.Build();
 
