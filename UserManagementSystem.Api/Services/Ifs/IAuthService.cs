@@ -5,6 +5,6 @@ namespace UserManagementSystem.Api.Services.Ifs;
 
 public interface IAuthService
 {
-    Task<bool> Login(string email, string password);
+    Task<UserToken?> Login(string email, string password);
     Task Register(RegisterReqDto dto);
 }

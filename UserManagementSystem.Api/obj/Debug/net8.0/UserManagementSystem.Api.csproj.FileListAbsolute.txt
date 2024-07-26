@@ -111,3 +111,17 @@ C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\obj\D
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\obj\Debug\net8.0\UserManagementSystem.Api.pdb
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\obj\Debug\net8.0\UserManagementSystem.Api.genruntimeconfig.cache
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\obj\Debug\net8.0\ref\UserManagementSystem.Api.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
