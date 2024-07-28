@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p3wTUJtk7WI=",
+  "dgSpecHash": "cFHjum08hZw=",
   "success": true,
   "projectFilePath": "C:\\Users\\fomek\\RiderProjects\\UserManagementSystem\\UserManagementSystem.Api\\UserManagementSystem.Api.csproj",
   "expectedPackageFiles": [
@@ -50,6 +50,7 @@
     "C:\\Users\\fomek\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\fomek\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
     "C:\\Users\\fomek\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.4\\npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
+    "C:\\Users\\fomek\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
     "C:\\Users\\fomek\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\fomek\\.nuget\\packages\\swashbuckle.aspnetcore.newtonsoft\\6.6.2\\swashbuckle.aspnetcore.newtonsoft.6.6.2.nupkg.sha512",
     "C:\\Users\\fomek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
