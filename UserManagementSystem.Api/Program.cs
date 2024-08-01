@@ -118,6 +118,7 @@ if (app.Environment.IsDevelopment())
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+await app.InitializeDatabase();
 
 app.UseHttpsRedirection();
 

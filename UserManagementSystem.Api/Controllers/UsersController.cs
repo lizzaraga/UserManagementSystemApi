@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using UserManagementSystem.Api.Models;
 using UserManagementSystem.Api.Services.Ifs;
+using UserManagementSystem.Database;
 using UserManagementSystem.Database.Entities;
 
 namespace UserManagementSystem.Api.Controllers;
@@ -14,6 +15,7 @@ public class UsersController(
     IUserService userService
     ): ControllerBase
 {
+    [Authorize(Roles = AppRoles.Administrator)]
     [HttpGet]
     public async Task<ActionResult<IEnumerable<UserDto>>> GetAll()
     {
@@ -33,7 +35,7 @@ public class UsersController(
         return Ok(result);
     }
     
-    
+    [Authorize(Roles = AppRoles.Administrator)]
     [HttpDelete("{id}")]
     public async Task<ActionResult<string>> DeleteById(string id)
     {

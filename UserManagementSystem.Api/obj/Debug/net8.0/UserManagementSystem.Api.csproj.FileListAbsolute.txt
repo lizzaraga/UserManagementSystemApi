@@ -126,3 +126,4 @@ C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\D
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Api\obj\Debug\net8.0\UserManagementSystem.Api.sourcelink.json

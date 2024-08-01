@@ -10,3 +10,4 @@ C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\refint\UserManagementSystem.Database.dll
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.pdb
 C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\ref\UserManagementSystem.Database.dll
+C:\Users\fomek\RiderProjects\UserManagementSystem\UserManagementSystem.Database\obj\Debug\net8.0\UserManagementSystem.Database.sourcelink.json
